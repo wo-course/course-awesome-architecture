@@ -23,7 +23,7 @@
 内容参考为：``主题涉及的理论概要介绍、实现要点及指导原则、不同方案的对比、Demo、实际案例介绍``。
 
 讲师需提前一周提交分享内容，由课程顾问团审核修订。
-提交的内容包含：主题PPT、Demo（如果有的话），使用Git的 ``Pull Request`` 到 https://github.com/happly-life/course-awesome-architecture
+提交的内容包含：主题PPT、Demo（如果有的话），使用Git的 ``Pull Request`` 到 https://github.com/wo-course/course-awesome-architecture
 
 ### 学时及地点
 本系列课程一共20节课，每节课2.5小时，2.5个月学完。
@@ -83,3 +83,11 @@
 1. 团队架构管理
 
 1. 架构未来：Service Mesh与Serverless
+
+## 开课时间及报名
+
+第一期课程计划于8月初开始。扫码进群：
+
+![](https://raw.githubusercontent.com/wo-course/course-awesome-architecture/master/res/hi.png)
+
+@ ``wo主持`` 沟通报名事宜。
