@@ -86,8 +86,7 @@
 
 ## 开课时间及报名
 
-第一期课程计划于8月初开始。扫码进群：
+第一期课程计划于8月初开始。微信报名：
 
-![](https://raw.githubusercontent.com/wo-course/course-awesome-architecture/master/res/hi.png)
+![](https://raw.githubusercontent.com/wo-course/course-awesome-architecture/master/res/hi.jpg)
 
-@ ``wo主持`` 沟通报名事宜。
